@@ -2,8 +2,10 @@
 A scraping tool to scrape tweets with user provided keywords and hashtags, in a given data range.
 
 ## Usage
-Ensure you have python3 installed and on your path. Run `python --version` to check.
+Type `python --version` in the terminal to check that python3 is installed.
 
-To execute the program, run `python scraper.py` from the directory that contains the scraper.py file.
+Type `pip install -r requirements.txt` in the terminal to install all the external dependencies.
 
-Follow the command prompts to execute an advanced twitter search. 
+Type `python scraper.py` in the terminal from the directory that you cloned to run the program.
+
+Follow the instruction from the script to do advanced searches on Twitter 
